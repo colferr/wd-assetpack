@@ -1,3 +1,15 @@
 # Watch Dogs Asset Pack (Icons)
 This is a Watch Dogs themed asset pack for the Flipper Zero. 
-You can combine it with the Watch Dogs asset pack which is included in Momentum Firmware. Comatible with custom firmware.
+You can combine it with the Watch Dogs asset pack which is included in Momentum Firmware.
+## Installation for Momentum Firmware
+1. Copy the WatchDogs folder into `SD Card/asset_packs`
+2. Go to `Momentum/Interface/Graphics/Asset Pack`
+3. Change the asset pack to __WatchDogs__
+## Examples
+![error.png](pic/error.png)
+###
+![iButton.png](pic/iButton.png)
+###
+![ir.png](pic/ir.png)
+###
+![nfc.png](pic/nfc.png)
